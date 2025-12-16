@@ -15,11 +15,10 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
  
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,django,aws,docker,mysql,postgresql,postman)](https://skillicons.dev)
 </div> 
--->
+
 
 ## GitHub Stats
 
-<!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/CodeWithEdgard#gh-light-mode-only">
     <img
@@ -37,7 +36,7 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
   </a>
 </div>
 
-<!-- GRS (Dark Mode) -->
+
 <div align="center"> 
   <a href="https://github.com/CodeWithEdgard#gh-dark-mode-only">
     <img
@@ -57,7 +56,6 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
 
 ## Streak Stats
 
-<!-- Streak stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/CodeWithEdgard#gh-light-mode-only">
     <img
@@ -67,7 +65,6 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
   </a>
 </div>
 
-<!-- Streak stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/CodeWithEdgard#gh-dark-mode-only">
     <img
@@ -76,3 +73,6 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
      />
   </a>
 </div>
+-->
+
+
