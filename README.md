@@ -103,39 +103,6 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
 
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CodeWithEdgard&show_icons=true&theme=gruvbox&hide_border=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEdgard&layout=compact&theme=gruvbox&hide_border=true"
-    height="170"
-  />
-
-</div>
-
----
-
-### 🚀 Experiência e foco atual
-
-- Desenvolvimento de **APIs RESTful** com Java e Python
-- Modelagem de domínio e regras de negócio (state machine, validações, exceções)
-- Criação de serviços backend testáveis com **JUnit 5**
-- Persistência de dados com **PostgreSQL**
-- Containerização de aplicações com **Docker**
-- Automação de build e testes com **Maven**
-- Uso de **Linux** como ambiente principal de desenvolvimento
-- Ênfase em **código limpo, arquitetura e boas práticas**
-
----
-
 ### 🎯 Objetivo profissional
 
 Atuar como desenvolvedor backend, entregando soluções confiáveis,
@@ -145,13 +112,6 @@ crescimento técnico contínuo.
 ---
 
 <div align="center">
-
-  <p>
-    Aberto a oportunidades backend / full-stack onde eu possa gerar valor real
-    com tecnologias consolidadas.
-  </p>
-
-  <br>
 
   <a href="https://linkedin.com/in/CodeWithEdgard" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
