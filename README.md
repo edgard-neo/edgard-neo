@@ -75,4 +75,90 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
 </div>
 -->
 
+<div align="center">
+  
+  <h2>Engenheiro de Software | Backend Developer</h2>
+  
+  <p>
+    Foco na construção de sistemas backend robustos, testáveis e escaláveis,
+    com forte base em lógica, arquitetura e boas práticas de engenharia.
+  </p>
 
+</div>
+
+---
+
+### 🛠️ Tecnologias principais
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CodeWithEdgard&show_icons=true&theme=gruvbox&hide_border=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEdgard&layout=compact&theme=gruvbox&hide_border=true"
+    height="170"
+  />
+
+</div>
+
+---
+
+### 🚀 Experiência e foco atual
+
+- Desenvolvimento de **APIs RESTful** com Java e Python
+- Modelagem de domínio e regras de negócio (state machine, validações, exceções)
+- Criação de serviços backend testáveis com **JUnit 5**
+- Persistência de dados com **PostgreSQL**
+- Containerização de aplicações com **Docker**
+- Automação de build e testes com **Maven**
+- Uso de **Linux** como ambiente principal de desenvolvimento
+- Ênfase em **código limpo, arquitetura e boas práticas**
+
+---
+
+### 🎯 Objetivo profissional
+
+Atuar como desenvolvedor backend, entregando soluções confiáveis,
+bem modeladas e alinhadas com padrões do mercado, com foco em
+crescimento técnico contínuo.
+
+---
+
+<div align="center">
+
+  <p>
+    Aberto a oportunidades backend / full-stack onde eu possa gerar valor real
+    com tecnologias consolidadas.
+  </p>
+
+  <br>
+
+  <a href="https://linkedin.com/in/CodeWithEdgard" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:mendesbr92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
