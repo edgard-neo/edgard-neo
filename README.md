@@ -76,49 +76,35 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
 -->
 
 <div align="center">
-  
   <h2>Engenheiro de Software | Backend Developer</h2>
-  
   <p>
-    Foco na construção de sistemas backend robustos, testáveis e escaláveis,
-    com forte base em lógica, arquitetura e boas práticas de engenharia.
+    Construção de sistemas backend robustos, testáveis e escaláveis,
+    com foco em arquitetura, lógica e boas práticas de engenharia.
   </p>
-
 </div>
 
----
+## 🖥️ Sistema Operacional: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-### 🛠️ Tecnologias principais
+## 💻 Linguagens: <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+## 🧩 Frameworks: <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+## 🗄️ Banco de Dados: <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+## ⚙️ DevOps & CI: <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+## 📚 Estudando: <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Mockito-59666C?style=for-the-badge&logo=mockito&logoColor=white" /> <img src="https://img.shields.io/badge/JaCoCo-CC0000?style=for-the-badge&logo=jacoco&logoColor=white" /> 
+
+## 🌐 IDE: <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
-### 🎯 Objetivo profissional
-
-Atuar como desenvolvedor backend, entregando soluções confiáveis,
-bem modeladas e alinhadas com padrões do mercado, com foco em
-crescimento técnico contínuo.
-
----
-
-<div align="center">
-
   <a href="https://linkedin.com/in/CodeWithEdgard" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="mailto:mendesbr92@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </div>
+
+
+
+
