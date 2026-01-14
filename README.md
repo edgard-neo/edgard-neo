@@ -1,110 +1,59 @@
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-smj/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendesbr92@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CodeWithEdgard)
+# Hey! 👋
+
+Sou o Edgard, um millennial que sempre foi fascinado por tecnologia e programação. Desde criança ficava intrigado com como as coisas funcionavam por trás das telas, e hoje transformei essa curiosidade em carreira.
+
+Como desenvolvedor backend, estou sempre aprendendo e me desafiando a escrever código melhor. Gosto de construir sistemas que resolvem problemas reais, com arquitetura sólida e testes que me deixam tranquilo pra fazer deploy.
+
+Atualmente focado em **Java** e **Spring Boot**, mas sempre de olho em novas tecnologias e formas de evoluir.
+
+## 🚀 O que eu curto fazer
+
+- Criar APIs REST bem estruturadas
+- Escrever testes que realmente importam
+- Estudar arquitetura de software e design patterns
+- Resolver problemas complexos com código simples
+- Automatizar tudo que dá pra automatizar
+
+## 🛠️ Minha stack atual
+
+**Linguagens**  
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Ferramentas**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📚 No momento estudando
+
+- **Testes**: JUnit 5, Mockito, TDD
+- **Cobertura de código**: JaCoCo
+- **Clean Architecture** e princípios SOLID
+- **Mensageria**: RabbitMQ / Kafka (próximos na lista)
+
+## 💭 Filosofia
+
+> "Follow the white rabbit" - Matrix
+
+Acredito que bom código não é sobre usar a tecnologia mais hypada, mas sim sobre resolver problemas reais de forma elegante. Sempre buscando evoluir, aprender com erros e compartilhar conhecimento.
+
+## 📫 Bora trocar uma ideia?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithEdgard)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendesbr92@gmail.com)
+
+---
 
 <div align="center">
- <h2>👋 About Me</h2>
+  <i>Construindo o futuro uma linha de código por vez</i>
 </div>
-
-Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineering student. Over the years, I've acquired skills such as organization, problem-solving, and teamwork, which I believe are essential for my journey in the development field. I'm excited to apply my previous experience and my passion for technology to tackle new challenges and continuously learn in this area.
-
-
-<div align="center"> 
- <h2>🛠️ Skills and Technologies</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,django,aws,docker,mysql,postgresql,postman)](https://skillicons.dev)
-</div> 
-
-
-## GitHub Stats
-
-<div align="center"> 
-  <a href="https://github.com/CodeWithEdgard#gh-light-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=CodeWithEdgard&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=letter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
-      alt="My GitHub stats"
-      height="370"
-    />
-  </a>
-  <a href="https://github.com/CodeWithEdgard#gh-light-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=CodeWithEdgard&layout=pie&hide_border=true&langs_count=10#gh-light-mode-only"
-      alt="My Language stats"
-      height="370"
-    />
-  </a>
-</div>
-
-
-<div align="center"> 
-  <a href="https://github.com/CodeWithEdgard#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=CodeWithEdgard&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=letter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
-      alt="My GitHub stats"
-      height="370"
-    />
-  </a>
-  <a href="https://github.com/CodeWithEdgard#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=CodeWithEdgard&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
-      alt="My Language stats"
-      height="370"
-    />
-  </a>
-</div>
-
-## Streak Stats
-
-<div align="center">
-  <a href="https://github.com/CodeWithEdgard#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=CodeWithEdgard&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/CodeWithEdgard#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=CodeWithEdgard&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
--->
-
-<div align="center">
-  <h2>Engenheiro de Software | Backend Developer</h2>
-  <p>
-    Construção de sistemas backend robustos, testáveis e escaláveis,
-    com foco em arquitetura, lógica e boas práticas de engenharia.
-  </p>
-</div>
-
-## 🖥️ Sistema Operacional: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-## 💻 Linguagens: <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-## 🧩 Frameworks: <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-## 🗄️ Banco de Dados: <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-## ⚙️ DevOps & CI: <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
-## 📚 Estudando: <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Mockito-59666C?style=for-the-badge&logo=mockito&logoColor=white" /> <img src="https://img.shields.io/badge/JaCoCo-CC0000?style=for-the-badge&logo=jacoco&logoColor=white" /> 
-
-## 🌐 IDE: <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<div align="center">
-  <a href="https://linkedin.com/in/CodeWithEdgard" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mendesbr92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-
-
