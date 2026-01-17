@@ -1,18 +1,10 @@
-# Hey! 👋
+# Eaee! 👋
 
-Sou o Edgard, um millennial que sempre foi fascinado por tecnologia e programação. Desde criança ficava intrigado com como as coisas funcionavam por trás das telas, e hoje transformei essa curiosidade em carreira.
+Sou o Edgar, um millennial que sempre foi fascinado por tecnologia. Desde criança ficava intrigado com como as coisas funcionavam por trás das telas, e hoje transformei essa curiosidade em carreira.
 
 Como desenvolvedor backend, estou sempre aprendendo e me desafiando a escrever código melhor. Gosto de construir sistemas que resolvem problemas reais, com arquitetura sólida e testes que me deixam tranquilo pra fazer deploy.
 
 Atualmente focado em **Java** e **Spring Boot**, mas sempre de olho em novas tecnologias e formas de evoluir.
-
-## 🚀 O que eu curto fazer
-
-- Criar APIs REST bem estruturadas
-- Escrever testes que realmente importam
-- Estudar arquitetura de software e design patterns
-- Resolver problemas complexos com código simples
-- Automatizar tudo que dá pra automatizar
 
 ## 🛠️ Minha stack atual
 
@@ -43,9 +35,11 @@ Atualmente focado em **Java** e **Spring Boot**, mas sempre de olho em novas tec
 
 ## 💭 Filosofia
 
-> "Follow the white rabbit" - Matrix
+> "You take the blue pill… the story ends. You take the red pill… you stay in Wonderland." - Matrix
 
-Acredito que bom código não é sobre usar a tecnologia mais hypada, mas sim sobre resolver problemas reais de forma elegante. Sempre buscando evoluir, aprender com erros e compartilhar conhecimento.
+O problema raramente está no código, mas no modelo mental por trás dele.
+Quando entendemos o domínio, o sistema se simplifica.
+Escrever bom software é questionar, reduzir acoplamento e criar estruturas que resistem ao tempo — mesmo quando os requisitos mudam.
 
 ## 📫 Bora trocar uma ideia?
 
