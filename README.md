@@ -1,12 +1,8 @@
-# Eaee! 👋
+# Bem Vindo! 👋
 
-Sou o Edgar, um millennial que sempre foi fascinado por tecnologia. Desde criança ficava intrigado com como as coisas funcionavam por trás das telas, e hoje transformei essa curiosidade em carreira.
+Sou o Edgar, sempre fui fascinado por tecnologia. Desde criança ficava intrigado com como as coisas funcionavam por trás das telas, e hoje transformei essa curiosidade em carreira.
 
-Como desenvolvedor backend, estou sempre aprendendo e me desafiando a escrever código melhor. Gosto de construir sistemas que resolvem problemas reais, com arquitetura sólida e testes que me deixam tranquilo pra fazer deploy.
-
-Atualmente focado em **Java** e **Spring Boot**, mas sempre de olho em novas tecnologias e formas de evoluir.
-
-## 🛠️ Minha stack atual
+## 🛠️ Stack atual
 
 **Linguagens**  
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,30 +20,13 @@ Atualmente focado em **Java** e **Spring Boot**, mas sempre de olho em novas tec
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+**OS**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## 📚 No momento estudando
 
-- **Testes**: JUnit 5, Mockito, TDD
+- **Testes**: JUnit 5, Mockito
 - **Cobertura de código**: JaCoCo
 - **Clean Architecture** e princípios SOLID
-- **Mensageria**: RabbitMQ / Kafka (próximos na lista)
-
-## 💭 Filosofia
-
-> "You take the blue pill… the story ends. You take the red pill… you stay in Wonderland." - Matrix
-
-O problema raramente está no código, mas no modelo mental por trás dele.
-Quando entendemos o domínio, o sistema se simplifica.
-Escrever bom software é questionar, reduzir acoplamento e criar estruturas que resistem ao tempo — mesmo quando os requisitos mudam.
-
-## 📫 Bora trocar uma ideia?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithEdgard)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendesbr92@gmail.com)
-
 ---
-
-<div align="center">
-  <i>Construindo o futuro uma linha de código por vez</i>
-</div>
