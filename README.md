@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/matrix.svg" alt="Wake up, Edgar... The Matrix has you." width="100%">
+  <img src="assets/matrix.svg" width="640" alt="Wake up, Zyphyx... The Matrix has you. Terminal: whoami, Edgar Mendes. codename Zyphyx, Suzano SP Brazil, Software engineering, Systems architecture. A second terminal named morpheus appears and types: Follow the white rabbit.">
 </p>
 
-<sub>_"There is a difference between knowing the path and walking the path."_</sub>
+<p align="center">
+  <sub><i>"There is a difference between knowing the path and walking the path."</i></sub>
+</p>
